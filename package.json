@@ -4,7 +4,15 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3"
+    "ansi-regex": "^3.0.1",
+    "braces": "^3.0.3",
+    "debug": "^3.2.7",
+    "express": "^4.19.2",
+    "fsevents": "^1.2.11",
+    "got": "^11.8.5",
+    "kind-of": "^6.0.3",
+    "semver": "^5.7.2",
+    "tar": "^6.2.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
